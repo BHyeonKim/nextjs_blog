@@ -14,8 +14,8 @@ function ContactForm(props) {
             <input type='text' id='name' required />
           </div>
           <div className={classes.control}>
-            <label htmlFor='message'>Your Name</label>
-            <input type='text' row='5' id='message' />
+            <label htmlFor='message'>Message</label>
+            <textarea rows='5' id='message'></textarea>
           </div>
           <div className={classes.actions}>
             <button>Send Message</button>
