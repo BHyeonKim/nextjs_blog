@@ -1,3 +1,3 @@
 # blog built with Nextjs
 
-[devbobo.com](https://devbobodev.com)
+[devbobo.com](https://devbobo.com)
